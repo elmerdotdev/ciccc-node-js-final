@@ -9,6 +9,7 @@
 - **Security:** Your application needs to have user registration and login. Make sure to integrate `bcrypt` for hashing and `cookies` or `jsonwebtoken` for increaed security. Make sure sensitive routes are protected with middleware so that only logged-in users can send a request.
 - **Frontend:** You can choose whichever frontend (Astro, EJS, React, NextJS, etc.). The website needs to be responsive.
 - **WebSockets:** Integrate Socket.io into your application in some way.
+- **TypeScript:** Always!
 
 ## Some Ideas 💡
 
