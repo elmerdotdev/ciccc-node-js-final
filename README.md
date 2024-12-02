@@ -16,12 +16,13 @@
 - Multi-user chat app with rooms and you can also send messages directly to another user *(similar to Slack)*
 - Document real-time collaboration *(similar to Google Docs)*
 - 2D-based multiplayer game where you can see players move in real time.
+- Real-time data fetching and display *(stock market graph tracker)*
 
 ## Instructions 📖
 
 1. Set up your GitHub Project and decide as a team what application you are going to build.
 2. Decide your tech stack and assign roles and tasks for each member. Plan a timeline of when something needs to be done.
 3. Design your application in Figma. Do not overcomplicate the design and try to create something that you can build in a few days.
-4. Once you are done with the development, create a pull request to your main branch nad merge.
+4. Once you are done with the development, create a pull request to your main branch and merge.
 
 *Good luck! 🙌*
