@@ -5,7 +5,7 @@
 ## Requirements ✅
 
 - **Backend:** You need to use NodeJS and Express with MVC design architecture. Create routes for your CRUD functionality.
-- **Database:** Data needs to be stored inside a database of your choosing. Use an ORM such as `Prisma` or `Mongoose`.
+- **Database:** Data needs to be stored inside a database of your choosing. Use an ORM such as `Prisma` or `Mongoose`. Make sure to also create an ERD first.
 - **Security:** Your application needs to have user registration and login authentication. Make sure to integrate `bcrypt` for hashing and `cookies` or `jsonwebtoken` for increased security by implementing middleware so that only logged-in users can send a request.
 - **Frontend:** You can choose whichever frontend (Astro, EJS, React, NextJS, etc.). The website needs to be responsive.
 - **WebSockets:** Integrate Socket.io into your application in some way.
