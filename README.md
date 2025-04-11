@@ -25,4 +25,18 @@
 3. Design your application in Figma. Do not overcomplicate the design and try to create something that you can build in a few days.
 4. Once you are done with the development, create a pull request to your main branch and merge.
 
+## Presentation 🎥
+
+Prepare slides for your presentation. It doesn't need to be overly designed, the important thing is the content. You can use Google Slides or Canva.
+
+**Example Slides**
+1. Project Name and Team Introduction
+2. Problem Statement
+3. Features
+4. Demo
+5. Tech Stack
+6. Challenges & How You Resolved Them
+7. Team members and roles
+8. Thank You / Q&A
+
 *Good luck! 🙌*
