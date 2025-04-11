@@ -35,8 +35,8 @@ Prepare slides for your presentation. It doesn't need to be overly designed, the
 3. Features
 4. Demo
 5. Tech Stack
-6. Challenges & How You Resolved Them
-7. Team members and roles
+6. Challenges and Resolutions
+7. Team Members and Roles
 8. Thank You / Q&A
 
 *Good luck! 🙌*
